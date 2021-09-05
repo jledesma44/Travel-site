@@ -21,6 +21,7 @@
     margin-bottom: 0.6rem;
 
     @mixin atSmall {
+<<<<<<< HEAD
       position: relative;
       top: 8px;
       margin-right: 0.5rem;
@@ -30,3 +31,13 @@
     }
   }
 }
+=======
+      margin-right: 0.5rem;
+      display: inline-block;
+      margin-bottom: 0;
+      margin-left: 0; 
+   }           
+ }
+  
+}          
+>>>>>>> cb7c87144b7b87140046e35cec26b153ab6bb69d
