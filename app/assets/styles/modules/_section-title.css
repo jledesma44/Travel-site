@@ -21,6 +21,10 @@
     margin-bottom: 0.6rem;
 
     @mixin atSmall {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e6e7fab00f64c74234607d2ce84ba94e994ef37d
       position: relative;
       top: 8px;
       margin-right: 0.5rem;
@@ -30,3 +34,16 @@
     }
   }
 }
+<<<<<<< HEAD
+=======
+=======
+      margin-right: 0.5rem;
+      display: inline-block;
+      margin-bottom: 0;
+      margin-left: 0; 
+   }           
+ }
+  
+}          
+>>>>>>> cb7c87144b7b87140046e35cec26b153ab6bb69d
+>>>>>>> e6e7fab00f64c74234607d2ce84ba94e994ef37d
